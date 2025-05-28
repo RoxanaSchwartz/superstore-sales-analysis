@@ -61,22 +61,23 @@ The dashboard includes interactive filters for **Year**, **Segment**, and **Regi
 
 ### 7. Visualization in Looker Studio
 
-- **Scorecards:** Total Sales (~$2.25M), AOV (~$458)  
-- **Stacked Bar Chart:** Sales by Category and Year  
+- **Scorecards:** Total Sales, AOV
+- **Geochart:** Sales by State
+- **Stacked Bar Chart:** Sales by Category and Year
+- **Pie Chart:** Sales Share by Category  
 - **Donut Chart:** Segment Distribution (e.g., Consumer ~50.9%)  
-- **Bar Charts:** Profit by Category, Sales Share by Region  
+- **Bar Charts:** Sales by Category, Sales by Region  
 - **Horizontal Bar Chart:** Top 5 Sub-Categories by Sales  
 - **Line Chart:** Seasonal Patterns by Month  
-- **Tables:**  
-  - Top 5 Products (Phones/Chairs)  
-  - Top 10 Customers by Sales
+- **Tables:**  Top 10 Customers by Sales
 
 ## Visualizations
 
 ### Looker Studio
 
 - **Overview Report:** Key metrics and high-level trends  
-  ![Overview Screenshot](docs/dashboard_overview.png) 
+  ![Overview Screenshot](docs/dashboard_overview.png)
+
 
 - **Detail Analysis Report:** In-depth trends and customer insights  
   ![Detail Screenshot](docs/dashboard_detailed_view.png)
