@@ -75,31 +75,31 @@ The dashboard includes interactive filters for **Year**, **Segment**, and **Regi
 
 ### Looker Studio
 
-- **Overview Report:** Key metrics and high-level trends  
-  ![Overview Screenshot](docs/dashboard_overview.png)
+- **Overview Dashboard**: Key metrics and high-level sales trends.
+![Dashboard Overview](docs/dashboard_overview.PNG) 
 
+- **Detailed Insights Dashboard**: In-depth trends and customer insights.
+![Dashboard Detailed Insights](docs/dashboard_detailed_insights.PNG)
 
-- **Detail Analysis Report:** In-depth trends and customer insights  
-  ![Detail Screenshot](docs/dashboard_detailed_view.png)
 
 ### Jupyter Notebook
 
 - **Top 5 Sub-Categories by Sales**  
-  ![Sub-Categories Plot](docs/jupyter_plot_top_subcategories.png)
+![Jupyter Top Subcategories Plot](docs/jupyter_plot_top_subcategories.PNG)
 
 - **Top 5 Products by Sales**    
-  ![Products Plot](docs/jupyter_plot_top_products.png)
+![Jupyter Top Products Plot](docs/jupyter_plot_top_products.PNG)
 
 
 ## Files
 - [data/superstore_cleaned.csv](data/superstore_cleaned.csv): Cleaned Dataset (CSV)
 - [notebooks/superstore_analysis.ipynb](notebooks/superstore_analysis.ipynb): Jupyter Notebook for EDA 
 - [sql/superstore_analysis.sql](sql/superstore_analysis.sql): BigQuery SQL Queries (SQL)
-- [docs/dashboard_overview.png](docs/dashboard_overview.png): Looker Studio Overview Screenshot (PNG)
-- [docs/dashboard_detailed_view.png](docs/dashboard_detailed_view.png): Looker Studio Detailed View Screenshot (PNG)
+- [docs/dashboard_overview.PNG](docs/dashboard_overview.PNG): Looker Studio Overview Screenshot (PNG)
+- [docs/dashboard_detailed_insights.PNG](docs/dashboard_detailed_insights.PNG): Looker Studio Detailed View Screenshot (PNG)
 - [docs/superstore_dashboard.pdf](docs/superstore_dashboard.pdf): Looker Studio Dashboard (PDF)
-- [docs/jupyter_plot_top_subcategories.png](docs/jupyter_plot_top_subcategories.png): Jupyter Plot Top Sub-Categories
-- [docs/jupyter_plot_top_products.png][docs/jupyter_plot_top_products.png): Jupyter Plot Top Products Screenshot (PNG)
+- [docs/jupyter_plot_top_subcategories.PNG](docs/jupyter_plot_top_subcategories.PNG): Jupyter Plot Top Sub-Categories
+- [docs/jupyter_plot_top_products.PNG][docs/jupyter_plot_top_products.PNG): Jupyter Plot Top Products Screenshot (PNG)
 
 ## Interactive Report
 
