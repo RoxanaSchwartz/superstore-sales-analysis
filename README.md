@@ -95,11 +95,11 @@ The dashboard includes interactive filters for **Year**, **Segment**, and **Regi
 - [data/superstore_cleaned.csv](data/superstore_cleaned.csv): Cleaned Dataset (CSV)
 - [notebooks/superstore_analysis.ipynb](notebooks/superstore_analysis.ipynb): Jupyter Notebook for EDA 
 - [sql/superstore_analysis.sql](sql/superstore_analysis.sql): BigQuery SQL Queries (SQL)
-- [docs/dashboard_overview.PNG](docs/dashboard_overview.PNG): Looker Studio Overview Screenshot (PNG)
+- [docs/dashboard_overview.PNG](docs/dashboard_overview.PNG): Looker Studio Overview Screenshot 
 - [docs/dashboard_detailed_insights.PNG](docs/dashboard_detailed_insights.PNG): Looker Studio Detailed View Screenshot (PNG)
 - [docs/superstore_dashboard.pdf](docs/superstore_dashboard.pdf): Looker Studio Dashboard (PDF)
 - [docs/jupyter_plot_top_subcategories.PNG](docs/jupyter_plot_top_subcategories.PNG): Jupyter Plot Top Sub-Categories
-- [docs/jupyter_plot_top_products.PNG][docs/jupyter_plot_top_products.PNG): Jupyter Plot Top Products Screenshot (PNG)
+- [docs/jupyter_plot_top_products.PNG][docs/jupyter_plot_top_products.PNG): Jupyter Plot Top Products Screenshot 
 
 ## Interactive Report
 
